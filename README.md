@@ -58,3 +58,13 @@ para confirmar: git config - -list
 8º git log (mostra o rastreamento e commits feitos)
 
 MASTER é a árvore.
+
+## Conectar ao github 
+
+1º Criar um repo no github (sem o README aparecerá a lista de comandos que deverão ser realizados)
+
+2º No git bash usado anteriormente, rodar o comando: git remote add origin https...
+
+3º git remote -v 
+
+aparecerá fetch (buscar) e push (empurar)
